@@ -7,7 +7,6 @@ This practice program demonstrates how to use **Python `for` loops, functions, c
 * Display odd numbers from a list
 * Create a function to find odd numbers
 * Create a function to find words with an odd number of characters
-
 This program is designed for beginners who are learning **Python functions and loops**.
 
 ---
