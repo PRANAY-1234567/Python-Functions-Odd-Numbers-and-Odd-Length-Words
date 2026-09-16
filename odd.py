@@ -4,7 +4,6 @@ for i in d:
     if i%2==1:
         print (i)
 
-
 #Using function
 
 def odd(d):
